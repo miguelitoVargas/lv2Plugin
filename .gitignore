@@ -13,4 +13,8 @@
 *.a
 
 
-*.*~ 
+ 
+src/*.*~
+src/*~
+src/eg-plugin.lv2/
+
