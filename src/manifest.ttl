@@ -3,5 +3,6 @@
 
 <http://lv2plug.in/plugins/eg-plugin>
 	a lv2:Plugin ;
-	lv2:binary <myPlugin@LIB_EXT@>  ;
+	lv2:binary <myPlugin.so>  ;
 	rdfs:seeAlso <myPlugin.ttl> .
+	
